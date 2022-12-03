@@ -94,3 +94,7 @@ function bool ChangeTeam(Pawn Other, int N)
 
 	return isTeamChanged && super.ChangeTeam(Other, N);
 }
+
+defaultproperties {
+	GameName="Assigned Teams: Tournament Team Game"
+}

@@ -1,0 +1,5 @@
+[Public]
+; Gametypes
+Object=(Name=AssignedTeams.AssignedTeamsTeamGamePlus,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Object=(Name=AssignedTeams.AssignedTeamsCTFGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Object=(Name=AssignedTeams.AssignedTeamsNewCTF,Class=Class,MetaClass=Botpack.TournamentGameInfo)

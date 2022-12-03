@@ -2,7 +2,7 @@
 
 UnrealTournament package containing derived games types for CTFGame and TeamGamePlus for controlling players team assignments by game password.
 
-Version: 0.1-beta<br>
+Version: 0.2-beta<br>
 Author: Orel Eraki<br>
 Email: orel.eraki@gmail.com<br>
 

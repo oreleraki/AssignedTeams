@@ -179,7 +179,7 @@ function PrintHello(AssignedTeamsConfig config)
 
     Log("");
     Log(" :======================================:");
-    Log(" :    AssignedTeams v1");
+    Log(" :    AssignedTeams v0.2-alpha");
     Log(" :");
     Log(" : bEnabled          	= " $ string(config.bEnabled));
     Log(" : Debug             	= " $ string(config.Debug));

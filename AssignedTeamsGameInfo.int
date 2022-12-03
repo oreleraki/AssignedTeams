@@ -1,4 +1,0 @@
-[Public]
-Object=(Name=AssignedTeamsGameInfo.AssignedTeamsCTFGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)
-Object=(Name=AssignedTeamsGameInfo.AssignedTeamsTeamGamePlus,Class=Class,MetaClass=Botpack.TournamentGameInfo)
-Preferences=(Caption="AssignedTeams",Parent="Game Types",Class=AssignedTeamsGameInfo.AssignedTeamsTeamGamePlus,Immediate=True)
